@@ -12,8 +12,8 @@ This is my first attempt at a professional portfolio. As class progresses and ne
 ![PortfolioPreview](https://user-images.githubusercontent.com/87405979/129510817-cbe25c9c-bffe-449d-86a2-a5976f512766.png)
 ***
 ### Links
-Deployed website: https://aubreyross.github.io/Professional-Portfolio/
-Link to code: https://github.com/aubreyross/Professional-Portfolio
+* Deployed website: https://aubreyross.github.io/Professional-Portfolio/
+* Link to code: https://github.com/aubreyross/Professional-Portfolio
 ***
 
 ### Resources and References
