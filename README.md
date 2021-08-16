@@ -1,7 +1,7 @@
 # Professional-Portfolio
 
 ## Description
-This is my first attempt at a professional portfolio. As class progresses and new styles of programming are learned, I will build off this design, enhancing it with more features as they learned, as well as adding course projects to the portfolio grid as they are completed. 
+This is my first attempt at a professional portfolio. As class progresses and new programming languages are learned, I will build off this design, enhancing it with more features as they learned, as well as adding future course projects as they are completed. 
 ***
 
 ### Installation
@@ -9,8 +9,8 @@ This is my first attempt at a professional portfolio. As class progresses and ne
 ***
 
 ### Screenshot 
+![PortfolioPreview](https://user-images.githubusercontent.com/87405979/129510817-cbe25c9c-bffe-449d-86a2-a5976f512766.png)
 ***
-
 ### Links
 * Deployed website: https://aubreyross.github.io/Professional-Portfolio/
 * Link to code: https://github.com/aubreyross/Professional-Portfolio
