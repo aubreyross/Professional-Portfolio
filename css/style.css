@@ -111,7 +111,7 @@ h2{
     padding: 10%;
     margin: 0 50px;
     height: auto;
-    font-size: 15px;
+    font-size: 18px;
     font-family:sans-serif,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
     text-align: left;
 }
@@ -142,7 +142,6 @@ h2{
 /* contact section styling */
 
 footer{
-    justify-content:left
     font-size: 20px;
     margin-bottom: 10px;
     font-family: sans-serif;
@@ -162,10 +161,11 @@ footer ul li{
 
 footer ul li a{
     display: block;
-    padding: 0 20px;
+    padding: 0 25px;
     font-weight: 400px;
     line-height: 50px;
     color: white;
+    justify-content: center;
 }
 
  
