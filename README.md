@@ -1,7 +1,7 @@
 # Professional-Portfolio
 
 ## Description
-This is my first attempt at a professional portfolio. As class progresses and new styles of programming are learned, I will build off this design, enhancing it with more features as they learned, as well as adding course projects to the portfolio grid as they are completed. 
+This is my first attempt at a professional portfolio. As class progresses and new programming languages are learned, I will build off this design, enhancing it with more features as they learned, as well as adding course projects to the portfolio grid as they are completed. 
 ***
 
 ### Installation
